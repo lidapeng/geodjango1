@@ -1,7 +1,7 @@
 '''
 Created on Mar 27, 2016
 
-@author: edward
+@author: Dapeng
 '''
 import os
 from django.contrib.gis.utils import LayerMapping
